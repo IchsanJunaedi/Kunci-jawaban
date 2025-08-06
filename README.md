@@ -44,14 +44,4 @@ Proyek ini adalah implementasi algoritma **Bubble Sort** dalam bahasa pemrograma
    java SortingChallenge
    ```
 
-## 📸 Contoh Tampilan
-
-> Contoh tampilan input/output tersedia dalam folder `screenshot/`.
-
-## 🙌 Kontribusi
-
-Pull request sangat terbuka jika Anda memiliki ide pengembangan atau ingin memperbaiki bug!
-
----
-
 © 2025 - Modul Praktikum Sorting I
